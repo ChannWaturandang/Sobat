@@ -1,11 +1,11 @@
 <?php
 
 	// define path constants
-    define("APP_PATH", 'https://sobat.site/sobat/public');
+    define("APP_PATH", 'https://....com/contoh/public');
 
     // define database config
-    define("HOST_DB", "localhost");
-    define("NAME_DB", "sobat_server");
-    define("USER_DB", "sobat");
-    define("PASS_DB", "SobatServer@2024");
+    define("HOST_DB", "...");
+    define("NAME_DB", "...");
+    define("USER_DB", "...");
+    define("PASS_DB", "...");
 
